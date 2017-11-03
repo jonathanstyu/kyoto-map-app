@@ -1,0 +1,7 @@
+## Kyoto Map App 
+
+Small app that leverages AirBnB's React Native maps library. It opens up on the city of Kyoto with some landmarks. Someone taps on the landmark and then they can open up a blank profile page.
+
+The YouTube link is [here](https://youtu.be/Ht8zINCYmDc). 
+
+Here is the [writeup](https://medium.com/@jonathanstyu/building-a-kyoto-landmarks-map-app-in-react-native-1143f8f4d618).
